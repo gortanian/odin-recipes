@@ -1,1 +1,1 @@
-This project is to build a simple recipes website using html only. Completing it will demonstrate that I know how to effectively markup content with html. 
+This project is to build a simple recipes website using html only. Completing it will demonstrate that I know how to effectively markup content with html. :D
