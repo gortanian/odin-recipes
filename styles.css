@@ -1,0 +1,24 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+
+img {
+    border-radius: 10px;
+    width: 300px;
+    height: auto;
+}
+
+ul, ol, li {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    text-align: left;
+}
+
+p {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
